@@ -1,4 +1,4 @@
-Android Percent Support Lib For Eclipse:triangular_ruler::triangular_ruler::triangular_ruler:
+Android Percent Support Lib For Eclipse:
 ===================================
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--percent--support--lib--sample-green.svg?style=flat)](https://android-arsenal.com/details/3/2054)
 
