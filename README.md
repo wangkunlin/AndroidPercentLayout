@@ -1,8 +1,7 @@
 Android Percent Support Lib For Eclipse
 ===================================
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--percent--support--lib--sample-green.svg?style=flat)](https://android-arsenal.com/details/3/2054)
 
-I made a sample of the new percent support library.<br>
+I modified this library for use on eclipse.<br>
 It will be documented soon on android dev website so it's just a proof of concept :)<br>
 You can check official docs reference [here](https://juliengenoud.github.io/android-percent-support-lib-sample/) 
 
