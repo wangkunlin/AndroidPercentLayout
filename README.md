@@ -1,4 +1,4 @@
-Android Percent Support Lib Sample :triangular_ruler::triangular_ruler::triangular_ruler:
+Android Percent Support Lib For Eclipse:triangular_ruler::triangular_ruler::triangular_ruler:
 ===================================
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--percent--support--lib--sample-green.svg?style=flat)](https://android-arsenal.com/details/3/2054)
 
@@ -18,14 +18,6 @@ horizontal and vertical at the same time.
 
 
 
-
-### How to use :
-just add percent support library to your project
-```xml
-dependencies {
-    compile 'com.android.support:percent:22.2.0'
-}
-```
 
 ###Supported Layouts :
 
